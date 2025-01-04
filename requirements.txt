@@ -1,0 +1,6 @@
+cryptography
+streamlit
+wave
+pydub
+pillow
+numpy	
